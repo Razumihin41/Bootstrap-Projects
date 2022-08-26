@@ -5,6 +5,6 @@
 
 ---
 
- ![Proje Gifi](/gif/gif.gif)
+ ![Proje Gifi](/Linkedin%20Clone/gif/gif.gif)
 
- ![Proje Görseli](/img/proje.jpg)
+ ![Proje Görseli](/Linkedin%20Clone/img/proje.jpg)
