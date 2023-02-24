@@ -1,7 +1,3 @@
-[PATIKA DEV PROFIL LINK](https://app.patika.dev/razumihin)
-
----
-
 # Bootstrap Demo
 
 ![Proje Görseli](/Bootstrap%20Demo/img/project.jpg)
